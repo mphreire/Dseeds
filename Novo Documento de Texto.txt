@@ -1,3 +1,0 @@
-identificador Mikrotik
-	MK-LEPneus
-senha : l3pneu5
